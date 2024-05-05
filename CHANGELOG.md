@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/tree-sitter-grammars/tree-sitter-smali/compare/v1.0.0...v1.0.1) (2024-05-05)
+
+
+### Bug Fixes
+
+* **grammar:** adapt to upstream regex change ([3f65178](https://github.com/tree-sitter-grammars/tree-sitter-smali/commit/3f6517855898ef23023e5d64a8b175d4ee8d646e))
+
 ## 1.0.0 (2023-05-13)
 
 
